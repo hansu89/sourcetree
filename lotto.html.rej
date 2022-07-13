@@ -1,9 +1,0 @@
-diff a/lotto.html b/lotto.html	(rejected hunks)
-@@ -8,5 +8,6 @@
- </head>
- <body>
-     <h1>Git First Commit</h1>
-+    <h1>feature/1</h1>
- </body>
- </html>
-\ No newline at end of file
