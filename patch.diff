@@ -1,0 +1,12 @@
+diff --git a/lotto.html b/lotto.html
+index d4631cb..827b0bb 100644
+--- a/lotto.html
++++ b/lotto.html
+@@ -9,5 +9,6 @@
+ <body>
+     <h1>Git First Commit</h1>
+     <h1>1 to master</h1>
++    <h1>branch 2 </h1>
+ </body>
+ </html>
+\ No newline at end of file
